@@ -1,7 +1,7 @@
 import React from 'react';
 
 import './CourseGoalItem.css';
-//raahdl
+
 const CourseGoalItem = props => {
   // const [deleteText, setDeleteText] = useState('');
 
